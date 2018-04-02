@@ -8,7 +8,7 @@ use Illuminate\Support\Facades\DB;//para poder usar db para construir consultas
 
 class UserController extends Controller
 {
-    
+    //ALEJANDRO ES GAY
 
     /*public function index(){
     	return 'USUARIOS';
