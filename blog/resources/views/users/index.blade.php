@@ -5,7 +5,7 @@
 @section('content')
 
 
-	<HEAD>HOLA MUNDO CRUEL</HEAD>
+	<HEAD>DIEGO ES RE LOK</HEAD>
 
 		<h1>{{ $title }} </h1>
 	  
